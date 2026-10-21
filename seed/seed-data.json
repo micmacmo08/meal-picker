@@ -1,0 +1,1899 @@
+{
+ "tags": [
+  {
+   "id": 1,
+   "name": "mike",
+   "created_at": 1792046239051
+  },
+  {
+   "id": 2,
+   "name": "michelle",
+   "created_at": 1792046239051
+  },
+  {
+   "id": 3,
+   "name": "multi-day-leftover",
+   "created_at": 1792046239051
+  },
+  {
+   "id": 4,
+   "name": "single-day-leftover",
+   "created_at": 1792046239051
+  },
+  {
+   "id": 5,
+   "name": "quick",
+   "created_at": 1792046239051
+  },
+  {
+   "id": 6,
+   "name": "crockpot",
+   "created_at": 1792046239051
+  },
+  {
+   "id": 7,
+   "name": "easy",
+   "created_at": 1792046239051
+  },
+  {
+   "id": 8,
+   "name": "long",
+   "created_at": 1792046239051
+  },
+  {
+   "id": 9,
+   "name": "mediterranean-diet",
+   "created_at": 1792081253669
+  }
+ ],
+ "ingredients": [
+  {
+   "id": 1,
+   "name": "ground turkey",
+   "normalized_name": "ground turkey",
+   "created_at": 1792081251752
+  },
+  {
+   "id": 2,
+   "name": "taco seasoning",
+   "normalized_name": "taco seasoning",
+   "created_at": 1792081251752
+  },
+  {
+   "id": 3,
+   "name": "corn tortillas",
+   "normalized_name": "corn tortillas",
+   "created_at": 1792081251752
+  },
+  {
+   "id": 4,
+   "name": "onion",
+   "normalized_name": "onion",
+   "created_at": 1792081251752
+  },
+  {
+   "id": 5,
+   "name": "cilantro",
+   "normalized_name": "cilantro",
+   "created_at": 1792081251752
+  },
+  {
+   "id": 6,
+   "name": "lime",
+   "normalized_name": "lime",
+   "created_at": 1792081251752
+  },
+  {
+   "id": 7,
+   "name": "lettuce",
+   "normalized_name": "lettuce",
+   "created_at": 1792081251752
+  },
+  {
+   "id": 8,
+   "name": "cheddar",
+   "normalized_name": "cheddar",
+   "created_at": 1792081251752
+  },
+  {
+   "id": 9,
+   "name": "salsa",
+   "normalized_name": "salsa",
+   "created_at": 1792081251752
+  },
+  {
+   "id": 10,
+   "name": "chicken breast",
+   "normalized_name": "chicken breast",
+   "created_at": 1792081252423
+  },
+  {
+   "id": 11,
+   "name": "pork shoulder",
+   "normalized_name": "pork shoulder",
+   "created_at": 1792081252451
+  },
+  {
+   "id": 12,
+   "name": "broccoli",
+   "normalized_name": "broccoli",
+   "created_at": 1792081252423
+  },
+  {
+   "id": 13,
+   "name": "garlic",
+   "normalized_name": "garlic",
+   "created_at": 1792081252451
+  },
+  {
+   "id": 14,
+   "name": "bell pepper",
+   "normalized_name": "bell pepper",
+   "created_at": 1792081252423
+  },
+  {
+   "id": 15,
+   "name": "brown sugar",
+   "normalized_name": "brown sugar",
+   "created_at": 1792081252451
+  },
+  {
+   "id": 16,
+   "name": "snap peas",
+   "normalized_name": "snap peas",
+   "created_at": 1792081252423
+  },
+  {
+   "id": 17,
+   "name": "smoked paprika",
+   "normalized_name": "smoked paprika",
+   "created_at": 1792081252451
+  },
+  {
+   "id": 18,
+   "name": "soy sauce",
+   "normalized_name": "soy sauce",
+   "created_at": 1792081252423
+  },
+  {
+   "id": 19,
+   "name": "salt",
+   "normalized_name": "salt",
+   "created_at": 1792081252451
+  },
+  {
+   "id": 20,
+   "name": "honey",
+   "normalized_name": "honey",
+   "created_at": 1792081252423
+  },
+  {
+   "id": 21,
+   "name": "black pepper",
+   "normalized_name": "black pepper",
+   "created_at": 1792081252451
+  },
+  {
+   "id": 22,
+   "name": "ginger",
+   "normalized_name": "ginger",
+   "created_at": 1792081252423
+  },
+  {
+   "id": 23,
+   "name": "apple cider vinegar",
+   "normalized_name": "apple cider vinegar",
+   "created_at": 1792081252451
+  },
+  {
+   "id": 24,
+   "name": "vegetable oil",
+   "normalized_name": "vegetable oil",
+   "created_at": 1792081252423
+  },
+  {
+   "id": 25,
+   "name": "chicken broth",
+   "normalized_name": "chicken broth",
+   "created_at": 1792081252451
+  },
+  {
+   "id": 26,
+   "name": "rice",
+   "normalized_name": "rice",
+   "created_at": 1792081252423
+  },
+  {
+   "id": 27,
+   "name": "hamburger buns",
+   "normalized_name": "hamburger buns",
+   "created_at": 1792081252451
+  },
+  {
+   "id": 28,
+   "name": "black beans",
+   "normalized_name": "black beans",
+   "created_at": 1792081293021
+  },
+  {
+   "id": 29,
+   "name": "corn",
+   "normalized_name": "corn",
+   "created_at": 1792081293021
+  },
+  {
+   "id": 30,
+   "name": "diced tomatoes with green chiles",
+   "normalized_name": "diced tomatoes with green chiles",
+   "created_at": 1792081293021
+  },
+  {
+   "id": 31,
+   "name": "chili powder",
+   "normalized_name": "chili powder",
+   "created_at": 1792081293021
+  },
+  {
+   "id": 32,
+   "name": "cumin",
+   "normalized_name": "cumin",
+   "created_at": 1792081293021
+  },
+  {
+   "id": 33,
+   "name": "tortilla chips",
+   "normalized_name": "tortilla chips",
+   "created_at": 1792081293021
+  },
+  {
+   "id": 34,
+   "name": "Italian sausage",
+   "normalized_name": "italian sausage",
+   "created_at": 1792081293501
+  },
+  {
+   "id": 35,
+   "name": "baby potatoes",
+   "normalized_name": "baby potatoes",
+   "created_at": 1792081293501
+  },
+  {
+   "id": 36,
+   "name": "red onion",
+   "normalized_name": "red onion",
+   "created_at": 1792081293501
+  },
+  {
+   "id": 37,
+   "name": "zucchini",
+   "normalized_name": "zucchini",
+   "created_at": 1792081293501
+  },
+  {
+   "id": 38,
+   "name": "olive oil",
+   "normalized_name": "olive oil",
+   "created_at": 1792081293501
+  },
+  {
+   "id": 39,
+   "name": "Italian seasoning",
+   "normalized_name": "italian seasoning",
+   "created_at": 1792081293501
+  },
+  {
+   "id": 40,
+   "name": "spaghetti",
+   "normalized_name": "spaghetti",
+   "created_at": 1792081299340
+  },
+  {
+   "id": 41,
+   "name": "ground beef",
+   "normalized_name": "ground beef",
+   "created_at": 1792081299340
+  },
+  {
+   "id": 42,
+   "name": "crushed tomatoes",
+   "normalized_name": "crushed tomatoes",
+   "created_at": 1792081299340
+  },
+  {
+   "id": 43,
+   "name": "tomato paste",
+   "normalized_name": "tomato paste",
+   "created_at": 1792081299340
+  },
+  {
+   "id": 44,
+   "name": "parmesan",
+   "normalized_name": "parmesan",
+   "created_at": 1792081299340
+  },
+  {
+   "id": 45,
+   "name": "beef chuck",
+   "normalized_name": "beef chuck",
+   "created_at": 1792081304386
+  },
+  {
+   "id": 46,
+   "name": "carrots",
+   "normalized_name": "carrots",
+   "created_at": 1792081304386
+  },
+  {
+   "id": 47,
+   "name": "celery",
+   "normalized_name": "celery",
+   "created_at": 1792081304386
+  },
+  {
+   "id": 48,
+   "name": "beef broth",
+   "normalized_name": "beef broth",
+   "created_at": 1792081304386
+  },
+  {
+   "id": 49,
+   "name": "flour",
+   "normalized_name": "flour",
+   "created_at": 1792081304386
+  },
+  {
+   "id": 50,
+   "name": "thyme",
+   "normalized_name": "thyme",
+   "created_at": 1792081304386
+  },
+  {
+   "id": 51,
+   "name": "bay leaf",
+   "normalized_name": "bay leaf",
+   "created_at": 1792081304386
+  },
+  {
+   "id": 52,
+   "name": "eggs",
+   "normalized_name": "eggs",
+   "created_at": 1792081304906
+  },
+  {
+   "id": 53,
+   "name": "feta",
+   "normalized_name": "feta",
+   "created_at": 1792081304906
+  },
+  {
+   "id": 54,
+   "name": "crusty bread",
+   "normalized_name": "crusty bread",
+   "created_at": 1792081304906
+  },
+  {
+   "id": 55,
+   "name": "red lentils",
+   "normalized_name": "red lentils",
+   "created_at": 1792081312988
+  },
+  {
+   "id": 56,
+   "name": "chickpeas",
+   "normalized_name": "chickpeas",
+   "created_at": 1792081312988
+  },
+  {
+   "id": 57,
+   "name": "harissa paste",
+   "normalized_name": "harissa paste",
+   "created_at": 1792081312988
+  },
+  {
+   "id": 58,
+   "name": "vegetable broth",
+   "normalized_name": "vegetable broth",
+   "created_at": 1792081312988
+  },
+  {
+   "id": 59,
+   "name": "spinach",
+   "normalized_name": "spinach",
+   "created_at": 1792081312988
+  },
+  {
+   "id": 60,
+   "name": "lemon",
+   "normalized_name": "lemon",
+   "created_at": 1792081312988
+  },
+  {
+   "id": 61,
+   "name": "chicken thighs",
+   "normalized_name": "chicken thighs",
+   "created_at": 1792081313552
+  },
+  {
+   "id": 62,
+   "name": "oregano",
+   "normalized_name": "oregano",
+   "created_at": 1792081313552
+  },
+  {
+   "id": 63,
+   "name": "cucumber",
+   "normalized_name": "cucumber",
+   "created_at": 1792081313552
+  },
+  {
+   "id": 64,
+   "name": "cherry tomatoes",
+   "normalized_name": "cherry tomatoes",
+   "created_at": 1792081313552
+  },
+  {
+   "id": 65,
+   "name": "Greek yogurt",
+   "normalized_name": "greek yogurt",
+   "created_at": 1792081313552
+  },
+  {
+   "id": 66,
+   "name": "dill",
+   "normalized_name": "dill",
+   "created_at": 1792081313552
+  },
+  {
+   "id": 67,
+   "name": "cannellini beans",
+   "normalized_name": "cannellini beans",
+   "created_at": 1792081324516
+  },
+  {
+   "id": 68,
+   "name": "kale",
+   "normalized_name": "kale",
+   "created_at": 1792081324516
+  },
+  {
+   "id": 69,
+   "name": "rosemary",
+   "normalized_name": "rosemary",
+   "created_at": 1792081324516
+  },
+  {
+   "id": 70,
+   "name": "parmesan rind",
+   "normalized_name": "parmesan rind",
+   "created_at": 1792081324516
+  },
+  {
+   "id": 71,
+   "name": "shawarma seasoning",
+   "normalized_name": "shawarma seasoning",
+   "created_at": 1792081324970
+  },
+  {
+   "id": 72,
+   "name": "pita bread",
+   "normalized_name": "pita bread",
+   "created_at": 1792081324970
+  }
+ ],
+ "meals": [
+  {
+   "id": 1,
+   "name": "Ground Turkey Tacos",
+   "ingredients": "1 lb ground turkey\n2 tbsp taco seasoning\n12 corn tortillas\n0.5 onion diced\n0.25 cup cilantro chopped\n1 lime cut into wedges\n2 cups lettuce shredded\n1 cup cheddar shredded\n0.5 cup salsa",
+   "recipe": "Brown the turkey in a skillet over medium-high heat, breaking it up, about 6-8 minutes. Stir in the taco seasoning and a splash of water; simmer 2 minutes. Warm the tortillas. Assemble tacos with turkey, onion, cilantro, lettuce, cheddar, salsa, and lime.",
+   "hidden": 0,
+   "created_at": 1792081251752,
+   "updated_at": 1792081251752
+  },
+  {
+   "id": 2,
+   "name": "Weeknight Chicken Stir-Fry",
+   "ingredients": "1 lb chicken breast sliced thin\n2 cups broccoli cut into florets\n2 bell pepper sliced\n1 cup snap peas\n3 tbsp soy sauce\n1 tbsp honey\n2 cloves garlic minced\n1 tbsp ginger grated\n1 tbsp vegetable oil\n1 cup rice uncooked, for serving",
+   "recipe": "Start the rice. Heat the oil in a wok or large skillet over high heat. Sear the chicken 3-4 minutes until cooked through; remove. Stir-fry the broccoli, peppers, and snap peas 4-5 minutes until crisp-tender. Return the chicken, add soy sauce, honey, garlic, and ginger, and toss 1 minute. Serve over rice.",
+   "hidden": 0,
+   "created_at": 1792081252423,
+   "updated_at": 1792081252423
+  },
+  {
+   "id": 3,
+   "name": "Crockpot Pulled Pork",
+   "ingredients": "3 lb pork shoulder bone-in\n1 onion quartered\n4 cloves garlic smashed\n2 tbsp brown sugar packed\n1 tbsp smoked paprika\n1 tbsp salt kosher\n1 tsp black pepper\n0.5 cup apple cider vinegar\n0.5 cup chicken broth\n1 pack hamburger buns for serving",
+   "recipe": "Rub the pork all over with the brown sugar, paprika, salt, and pepper. Place in the crockpot with the onion, garlic, vinegar, and broth. Cook on low 8-10 hours until it falls apart. Shred, discard the bone, and toss the meat with the cooking juices. Serve on buns.",
+   "hidden": 0,
+   "created_at": 1792081252451,
+   "updated_at": 1792081252451
+  },
+  {
+   "id": 5,
+   "name": "Crockpot Chicken Tortilla Soup",
+   "ingredients": "1.5 lb chicken breast boneless skinless\n4 cups chicken broth low-sodium\n1 can (15 oz) black beans drained and rinsed\n1 can (15 oz) corn drained\n1 can (10 oz) diced tomatoes with green chiles\n1 onion diced\n3 cloves garlic minced\n1 tbsp chili powder\n1 tsp cumin ground\n1 lime cut into wedges\n1 bag tortilla chips for serving",
+   "recipe": "Add everything except the lime and tortilla chips to the crockpot. Cook on low 6-7 hours or high 3-4 hours. Shred the chicken with two forks and stir it back in. Serve with lime wedges and tortilla chips.",
+   "hidden": 0,
+   "created_at": 1792081293021,
+   "updated_at": 1792081293021
+  },
+  {
+   "id": 6,
+   "name": "Sheet-Pan Sausage & Veggies",
+   "ingredients": "1 lb Italian sausage cut into chunks\n1.5 lb baby potatoes halved\n2 bell pepper chunked\n1 red onion wedged\n1 zucchini cut into half-moons\n2 tbsp olive oil\n1 tbsp Italian seasoning\n1 tsp salt",
+   "recipe": "Heat oven to 425F. Toss everything with the olive oil, Italian seasoning, and salt on a large sheet pan. Roast 25-30 minutes, flipping once, until the potatoes are tender and the sausage is browned.",
+   "hidden": 0,
+   "created_at": 1792081293501,
+   "updated_at": 1792081293501
+  },
+  {
+   "id": 7,
+   "name": "Spaghetti with Meat Sauce",
+   "ingredients": "1 lb spaghetti\n1 lb ground beef\n1 onion diced\n3 cloves garlic minced\n1 can (28 oz) crushed tomatoes\n2 tbsp tomato paste\n1 tbsp Italian seasoning\n0.5 cup parmesan grated",
+   "recipe": "Brown the beef with the onion and garlic over medium-high heat, 6-8 minutes. Stir in the tomato paste, crushed tomatoes, and Italian seasoning. Simmer at least 20 minutes (longer is better). Cook the spaghetti, then serve topped with sauce and parmesan.",
+   "hidden": 0,
+   "created_at": 1792081299340,
+   "updated_at": 1792081299340
+  },
+  {
+   "id": 8,
+   "name": "Sunday Beef Stew",
+   "ingredients": "2 lb beef chuck cut into 1.5-inch cubes\n2 onion chopped\n4 carrots cut into chunks\n3 stalks celery sliced\n1.5 lb baby potatoes halved\n4 cups beef broth\n2 tbsp tomato paste\n0.25 cup flour\n1 tsp thyme dried\n2 bay leaf\n2 tbsp olive oil",
+   "recipe": "Toss the beef with the flour, salt, and pepper. Sear in the oiled pot over medium-high heat until browned on all sides. Add the onions, carrots, celery, tomato paste, broth, thyme, and bay leaves. Simmer gently 2-2.5 hours, adding the potatoes for the last 45 minutes, until the beef is tender. Remove the bay leaves before serving.",
+   "hidden": 0,
+   "created_at": 1792081304386,
+   "updated_at": 1792081304386
+  },
+  {
+   "id": 9,
+   "name": "Shakshuka",
+   "ingredients": "8 eggs\n1 can (28 oz) crushed tomatoes\n1 onion diced\n1 bell pepper diced\n3 cloves garlic minced\n1 tsp cumin\n1 tsp smoked paprika\n2 tbsp olive oil\n0.5 cup feta crumbled\n1 loaf crusty bread for serving",
+   "recipe": "Saute the onion, bell pepper, and garlic in the olive oil until soft, about 6 minutes. Stir in the cumin and paprika, then the crushed tomatoes; simmer 10 minutes. Make 8 wells and crack an egg into each. Cover and cook 5-7 minutes until the whites are set. Top with feta and serve with crusty bread.",
+   "hidden": 0,
+   "created_at": 1792081304906,
+   "updated_at": 1792081304906
+  },
+  {
+   "id": 10,
+   "name": "Red Lentil & Chickpea Harissa Stew",
+   "ingredients": "2 cups red lentils rinsed\n2 can (15 oz) chickpeas drained and rinsed\n1 onion diced\n2 carrots diced\n4 cloves garlic minced\n2 tbsp harissa paste\n1 can (28 oz) crushed tomatoes\n6 cups vegetable broth\n2 tbsp olive oil\n1 tsp cumin ground\n4 cups spinach fresh\n1 lemon juiced, for serving",
+   "recipe": "Saute the onion and carrots in the olive oil until soft, about 6 minutes. Add the garlic, harissa, and cumin; cook 1 minute until fragrant. Add the lentils, chickpeas, crushed tomatoes, and broth. Simmer 25 minutes, stirring occasionally, until the lentils break down and the stew thickens. Stir in the spinach until wilted. Finish with lemon juice and serve with crusty bread.",
+   "hidden": 0,
+   "created_at": 1792081312988,
+   "updated_at": 1792081312988
+  },
+  {
+   "id": 11,
+   "name": "Greek Chicken Souvlaki Bowls",
+   "ingredients": "2 lb chicken thighs boneless skinless, cut into 1-inch pieces\n0.25 cup olive oil\n2 lemon juiced\n4 cloves garlic minced\n2 tsp oregano dried\n1.5 cups rice uncooked\n1 cucumber diced\n2 cups cherry tomatoes halved\n0.5 red onion thinly sliced\n0.75 cup feta crumbled\n1 cup Greek yogurt plain, for tzatziki\n2 tbsp dill chopped, for tzatziki",
+   "recipe": "Marinate the chicken in the olive oil, lemon juice, garlic, oregano, salt, and pepper for 30 minutes (or overnight). Cook the rice. Sear the chicken in a hot skillet with a little oil, 8-10 minutes, until charred at the edges and cooked through. Stir the yogurt with the dill and a pinch of garlic and salt for a quick tzatziki. Serve the chicken over rice with cucumber, tomatoes, red onion, feta, and tzatziki.",
+   "hidden": 0,
+   "created_at": 1792081313552,
+   "updated_at": 1792081313552
+  },
+  {
+   "id": 12,
+   "name": "Mediterranean White Bean & Kale Soup",
+   "ingredients": "2 can (15 oz) cannellini beans drained and rinsed\n1 bunch kale stems removed, chopped\n1 onion diced\n2 carrots sliced\n2 stalks celery sliced\n4 cloves garlic minced\n6 cups vegetable broth\n1 can (14 oz) crushed tomatoes\n2 tbsp olive oil\n1 tsp rosemary dried\n1 parmesan rind optional\n1 lemon juiced",
+   "recipe": "Saute the onion, carrots, and celery in the olive oil until soft, 6-8 minutes. Add the garlic and rosemary; cook 1 minute. Add the broth, crushed tomatoes, beans, and parmesan rind. Simmer 20 minutes. Add the kale and cook 5 minutes more, until tender. Remove the rind, stir in the lemon juice, and serve.",
+   "hidden": 0,
+   "created_at": 1792081324516,
+   "updated_at": 1792081324516
+  },
+  {
+   "id": 13,
+   "name": "Slow-Roasted Greek Lemon Chicken & Potatoes",
+   "ingredients": "3 lb chicken thighs bone-in skin-on\n2 lb baby potatoes halved\n3 lemon 2 juiced, 1 cut into wedges\n0.33 cup olive oil\n6 cloves garlic smashed\n1 tbsp oregano dried\n1 cup chicken broth",
+   "recipe": "Heat the oven to 375F. Whisk the lemon juice, olive oil, garlic, oregano, salt, and pepper. Arrange the chicken and potatoes in a large baking dish, pour over the marinade and the chicken broth, and turn to coat. Roast 1 hour 15 minutes to 1 hour 30 minutes, turning the potatoes once, until the chicken is golden and cooked through and the potatoes are crisp. Serve with the lemon wedges and pan juices.",
+   "hidden": 0,
+   "created_at": 1792081324938,
+   "updated_at": 1792081324938
+  },
+  {
+   "id": 14,
+   "name": "Chicken Shawarma Sheet Pan",
+   "ingredients": "2 lb chicken thighs boneless skinless\n3 tbsp olive oil\n2 tbsp shawarma seasoning\n1 red onion wedged\n2 bell pepper sliced\n2 cups cherry tomatoes halved\n6 pita bread for serving\n1 cup Greek yogurt for serving\n1 cucumber diced, for serving",
+   "recipe": "Heat the oven to 425F. Toss the chicken, onion, bell peppers, and tomatoes with the olive oil and shawarma seasoning on a large sheet pan. Roast 20-25 minutes, until the chicken is cooked through and the vegetables are charred at the edges. Slice the chicken and serve in warm pitas with yogurt and cucumber.",
+   "hidden": 0,
+   "created_at": 1792081324970,
+   "updated_at": 1792092824037
+  }
+ ],
+ "meal_ingredients": [
+  {
+   "id": 1,
+   "meal_id": 1,
+   "ingredient_id": 1,
+   "quantity": "1",
+   "measurement": "lb",
+   "descriptor": null,
+   "sort_order": 0
+  },
+  {
+   "id": 2,
+   "meal_id": 1,
+   "ingredient_id": 2,
+   "quantity": "2",
+   "measurement": "tbsp",
+   "descriptor": null,
+   "sort_order": 1
+  },
+  {
+   "id": 3,
+   "meal_id": 1,
+   "ingredient_id": 3,
+   "quantity": "12",
+   "measurement": null,
+   "descriptor": null,
+   "sort_order": 2
+  },
+  {
+   "id": 4,
+   "meal_id": 1,
+   "ingredient_id": 4,
+   "quantity": "0.5",
+   "measurement": null,
+   "descriptor": "diced",
+   "sort_order": 3
+  },
+  {
+   "id": 5,
+   "meal_id": 1,
+   "ingredient_id": 5,
+   "quantity": "0.25",
+   "measurement": "cup",
+   "descriptor": "chopped",
+   "sort_order": 4
+  },
+  {
+   "id": 6,
+   "meal_id": 1,
+   "ingredient_id": 6,
+   "quantity": "1",
+   "measurement": null,
+   "descriptor": "cut into wedges",
+   "sort_order": 5
+  },
+  {
+   "id": 7,
+   "meal_id": 1,
+   "ingredient_id": 7,
+   "quantity": "2",
+   "measurement": "cups",
+   "descriptor": "shredded",
+   "sort_order": 6
+  },
+  {
+   "id": 8,
+   "meal_id": 1,
+   "ingredient_id": 8,
+   "quantity": "1",
+   "measurement": "cup",
+   "descriptor": "shredded",
+   "sort_order": 7
+  },
+  {
+   "id": 9,
+   "meal_id": 1,
+   "ingredient_id": 9,
+   "quantity": "0.5",
+   "measurement": "cup",
+   "descriptor": null,
+   "sort_order": 8
+  },
+  {
+   "id": 10,
+   "meal_id": 2,
+   "ingredient_id": 10,
+   "quantity": "1",
+   "measurement": "lb",
+   "descriptor": "sliced thin",
+   "sort_order": 0
+  },
+  {
+   "id": 11,
+   "meal_id": 3,
+   "ingredient_id": 11,
+   "quantity": "3",
+   "measurement": "lb",
+   "descriptor": "bone-in",
+   "sort_order": 0
+  },
+  {
+   "id": 12,
+   "meal_id": 3,
+   "ingredient_id": 4,
+   "quantity": "1",
+   "measurement": null,
+   "descriptor": "quartered",
+   "sort_order": 1
+  },
+  {
+   "id": 13,
+   "meal_id": 2,
+   "ingredient_id": 12,
+   "quantity": "2",
+   "measurement": "cups",
+   "descriptor": "cut into florets",
+   "sort_order": 1
+  },
+  {
+   "id": 14,
+   "meal_id": 3,
+   "ingredient_id": 13,
+   "quantity": "4",
+   "measurement": "cloves",
+   "descriptor": "smashed",
+   "sort_order": 2
+  },
+  {
+   "id": 15,
+   "meal_id": 2,
+   "ingredient_id": 14,
+   "quantity": "2",
+   "measurement": null,
+   "descriptor": "sliced",
+   "sort_order": 2
+  },
+  {
+   "id": 16,
+   "meal_id": 3,
+   "ingredient_id": 15,
+   "quantity": "2",
+   "measurement": "tbsp",
+   "descriptor": "packed",
+   "sort_order": 3
+  },
+  {
+   "id": 17,
+   "meal_id": 2,
+   "ingredient_id": 16,
+   "quantity": "1",
+   "measurement": "cup",
+   "descriptor": null,
+   "sort_order": 3
+  },
+  {
+   "id": 18,
+   "meal_id": 3,
+   "ingredient_id": 17,
+   "quantity": "1",
+   "measurement": "tbsp",
+   "descriptor": null,
+   "sort_order": 4
+  },
+  {
+   "id": 19,
+   "meal_id": 2,
+   "ingredient_id": 18,
+   "quantity": "3",
+   "measurement": "tbsp",
+   "descriptor": null,
+   "sort_order": 4
+  },
+  {
+   "id": 20,
+   "meal_id": 3,
+   "ingredient_id": 19,
+   "quantity": "1",
+   "measurement": "tbsp",
+   "descriptor": "kosher",
+   "sort_order": 5
+  },
+  {
+   "id": 21,
+   "meal_id": 2,
+   "ingredient_id": 20,
+   "quantity": "1",
+   "measurement": "tbsp",
+   "descriptor": null,
+   "sort_order": 5
+  },
+  {
+   "id": 22,
+   "meal_id": 2,
+   "ingredient_id": 13,
+   "quantity": "2",
+   "measurement": "cloves",
+   "descriptor": "minced",
+   "sort_order": 6
+  },
+  {
+   "id": 23,
+   "meal_id": 3,
+   "ingredient_id": 21,
+   "quantity": "1",
+   "measurement": "tsp",
+   "descriptor": null,
+   "sort_order": 6
+  },
+  {
+   "id": 24,
+   "meal_id": 2,
+   "ingredient_id": 22,
+   "quantity": "1",
+   "measurement": "tbsp",
+   "descriptor": "grated",
+   "sort_order": 7
+  },
+  {
+   "id": 25,
+   "meal_id": 3,
+   "ingredient_id": 23,
+   "quantity": "0.5",
+   "measurement": "cup",
+   "descriptor": null,
+   "sort_order": 7
+  },
+  {
+   "id": 26,
+   "meal_id": 2,
+   "ingredient_id": 24,
+   "quantity": "1",
+   "measurement": "tbsp",
+   "descriptor": null,
+   "sort_order": 8
+  },
+  {
+   "id": 27,
+   "meal_id": 3,
+   "ingredient_id": 25,
+   "quantity": "0.5",
+   "measurement": "cup",
+   "descriptor": null,
+   "sort_order": 8
+  },
+  {
+   "id": 28,
+   "meal_id": 2,
+   "ingredient_id": 26,
+   "quantity": "1",
+   "measurement": "cup",
+   "descriptor": "uncooked, for serving",
+   "sort_order": 9
+  },
+  {
+   "id": 29,
+   "meal_id": 3,
+   "ingredient_id": 27,
+   "quantity": "1",
+   "measurement": "pack",
+   "descriptor": "for serving",
+   "sort_order": 9
+  },
+  {
+   "id": 30,
+   "meal_id": 5,
+   "ingredient_id": 10,
+   "quantity": "1.5",
+   "measurement": "lb",
+   "descriptor": "boneless skinless",
+   "sort_order": 0
+  },
+  {
+   "id": 31,
+   "meal_id": 5,
+   "ingredient_id": 25,
+   "quantity": "4",
+   "measurement": "cups",
+   "descriptor": "low-sodium",
+   "sort_order": 1
+  },
+  {
+   "id": 32,
+   "meal_id": 5,
+   "ingredient_id": 28,
+   "quantity": "1",
+   "measurement": "can (15 oz)",
+   "descriptor": "drained and rinsed",
+   "sort_order": 2
+  },
+  {
+   "id": 33,
+   "meal_id": 5,
+   "ingredient_id": 29,
+   "quantity": "1",
+   "measurement": "can (15 oz)",
+   "descriptor": "drained",
+   "sort_order": 3
+  },
+  {
+   "id": 34,
+   "meal_id": 5,
+   "ingredient_id": 30,
+   "quantity": "1",
+   "measurement": "can (10 oz)",
+   "descriptor": null,
+   "sort_order": 4
+  },
+  {
+   "id": 35,
+   "meal_id": 5,
+   "ingredient_id": 4,
+   "quantity": "1",
+   "measurement": null,
+   "descriptor": "diced",
+   "sort_order": 5
+  },
+  {
+   "id": 36,
+   "meal_id": 5,
+   "ingredient_id": 13,
+   "quantity": "3",
+   "measurement": "cloves",
+   "descriptor": "minced",
+   "sort_order": 6
+  },
+  {
+   "id": 37,
+   "meal_id": 5,
+   "ingredient_id": 31,
+   "quantity": "1",
+   "measurement": "tbsp",
+   "descriptor": null,
+   "sort_order": 7
+  },
+  {
+   "id": 38,
+   "meal_id": 5,
+   "ingredient_id": 32,
+   "quantity": "1",
+   "measurement": "tsp",
+   "descriptor": "ground",
+   "sort_order": 8
+  },
+  {
+   "id": 39,
+   "meal_id": 5,
+   "ingredient_id": 6,
+   "quantity": "1",
+   "measurement": null,
+   "descriptor": "cut into wedges",
+   "sort_order": 9
+  },
+  {
+   "id": 40,
+   "meal_id": 5,
+   "ingredient_id": 33,
+   "quantity": "1",
+   "measurement": "bag",
+   "descriptor": "for serving",
+   "sort_order": 10
+  },
+  {
+   "id": 41,
+   "meal_id": 6,
+   "ingredient_id": 34,
+   "quantity": "1",
+   "measurement": "lb",
+   "descriptor": "cut into chunks",
+   "sort_order": 0
+  },
+  {
+   "id": 42,
+   "meal_id": 6,
+   "ingredient_id": 35,
+   "quantity": "1.5",
+   "measurement": "lb",
+   "descriptor": "halved",
+   "sort_order": 1
+  },
+  {
+   "id": 43,
+   "meal_id": 6,
+   "ingredient_id": 14,
+   "quantity": "2",
+   "measurement": null,
+   "descriptor": "chunked",
+   "sort_order": 2
+  },
+  {
+   "id": 44,
+   "meal_id": 6,
+   "ingredient_id": 36,
+   "quantity": "1",
+   "measurement": null,
+   "descriptor": "wedged",
+   "sort_order": 3
+  },
+  {
+   "id": 45,
+   "meal_id": 6,
+   "ingredient_id": 37,
+   "quantity": "1",
+   "measurement": null,
+   "descriptor": "cut into half-moons",
+   "sort_order": 4
+  },
+  {
+   "id": 46,
+   "meal_id": 6,
+   "ingredient_id": 38,
+   "quantity": "2",
+   "measurement": "tbsp",
+   "descriptor": null,
+   "sort_order": 5
+  },
+  {
+   "id": 47,
+   "meal_id": 6,
+   "ingredient_id": 39,
+   "quantity": "1",
+   "measurement": "tbsp",
+   "descriptor": null,
+   "sort_order": 6
+  },
+  {
+   "id": 48,
+   "meal_id": 6,
+   "ingredient_id": 19,
+   "quantity": "1",
+   "measurement": "tsp",
+   "descriptor": null,
+   "sort_order": 7
+  },
+  {
+   "id": 49,
+   "meal_id": 7,
+   "ingredient_id": 40,
+   "quantity": "1",
+   "measurement": "lb",
+   "descriptor": null,
+   "sort_order": 0
+  },
+  {
+   "id": 50,
+   "meal_id": 7,
+   "ingredient_id": 41,
+   "quantity": "1",
+   "measurement": "lb",
+   "descriptor": null,
+   "sort_order": 1
+  },
+  {
+   "id": 51,
+   "meal_id": 7,
+   "ingredient_id": 4,
+   "quantity": "1",
+   "measurement": null,
+   "descriptor": "diced",
+   "sort_order": 2
+  },
+  {
+   "id": 52,
+   "meal_id": 7,
+   "ingredient_id": 13,
+   "quantity": "3",
+   "measurement": "cloves",
+   "descriptor": "minced",
+   "sort_order": 3
+  },
+  {
+   "id": 53,
+   "meal_id": 7,
+   "ingredient_id": 42,
+   "quantity": "1",
+   "measurement": "can (28 oz)",
+   "descriptor": null,
+   "sort_order": 4
+  },
+  {
+   "id": 54,
+   "meal_id": 7,
+   "ingredient_id": 43,
+   "quantity": "2",
+   "measurement": "tbsp",
+   "descriptor": null,
+   "sort_order": 5
+  },
+  {
+   "id": 55,
+   "meal_id": 7,
+   "ingredient_id": 39,
+   "quantity": "1",
+   "measurement": "tbsp",
+   "descriptor": null,
+   "sort_order": 6
+  },
+  {
+   "id": 56,
+   "meal_id": 7,
+   "ingredient_id": 44,
+   "quantity": "0.5",
+   "measurement": "cup",
+   "descriptor": "grated",
+   "sort_order": 7
+  },
+  {
+   "id": 57,
+   "meal_id": 8,
+   "ingredient_id": 45,
+   "quantity": "2",
+   "measurement": "lb",
+   "descriptor": "cut into 1.5-inch cubes",
+   "sort_order": 0
+  },
+  {
+   "id": 58,
+   "meal_id": 8,
+   "ingredient_id": 4,
+   "quantity": "2",
+   "measurement": null,
+   "descriptor": "chopped",
+   "sort_order": 1
+  },
+  {
+   "id": 59,
+   "meal_id": 8,
+   "ingredient_id": 46,
+   "quantity": "4",
+   "measurement": null,
+   "descriptor": "cut into chunks",
+   "sort_order": 2
+  },
+  {
+   "id": 60,
+   "meal_id": 8,
+   "ingredient_id": 47,
+   "quantity": "3",
+   "measurement": "stalks",
+   "descriptor": "sliced",
+   "sort_order": 3
+  },
+  {
+   "id": 61,
+   "meal_id": 8,
+   "ingredient_id": 35,
+   "quantity": "1.5",
+   "measurement": "lb",
+   "descriptor": "halved",
+   "sort_order": 4
+  },
+  {
+   "id": 62,
+   "meal_id": 8,
+   "ingredient_id": 48,
+   "quantity": "4",
+   "measurement": "cups",
+   "descriptor": null,
+   "sort_order": 5
+  },
+  {
+   "id": 63,
+   "meal_id": 8,
+   "ingredient_id": 43,
+   "quantity": "2",
+   "measurement": "tbsp",
+   "descriptor": null,
+   "sort_order": 6
+  },
+  {
+   "id": 64,
+   "meal_id": 8,
+   "ingredient_id": 49,
+   "quantity": "0.25",
+   "measurement": "cup",
+   "descriptor": null,
+   "sort_order": 7
+  },
+  {
+   "id": 65,
+   "meal_id": 8,
+   "ingredient_id": 50,
+   "quantity": "1",
+   "measurement": "tsp",
+   "descriptor": "dried",
+   "sort_order": 8
+  },
+  {
+   "id": 66,
+   "meal_id": 8,
+   "ingredient_id": 51,
+   "quantity": "2",
+   "measurement": null,
+   "descriptor": null,
+   "sort_order": 9
+  },
+  {
+   "id": 67,
+   "meal_id": 8,
+   "ingredient_id": 38,
+   "quantity": "2",
+   "measurement": "tbsp",
+   "descriptor": null,
+   "sort_order": 10
+  },
+  {
+   "id": 68,
+   "meal_id": 9,
+   "ingredient_id": 52,
+   "quantity": "8",
+   "measurement": null,
+   "descriptor": null,
+   "sort_order": 0
+  },
+  {
+   "id": 69,
+   "meal_id": 9,
+   "ingredient_id": 42,
+   "quantity": "1",
+   "measurement": "can (28 oz)",
+   "descriptor": null,
+   "sort_order": 1
+  },
+  {
+   "id": 70,
+   "meal_id": 9,
+   "ingredient_id": 4,
+   "quantity": "1",
+   "measurement": null,
+   "descriptor": "diced",
+   "sort_order": 2
+  },
+  {
+   "id": 71,
+   "meal_id": 9,
+   "ingredient_id": 14,
+   "quantity": "1",
+   "measurement": null,
+   "descriptor": "diced",
+   "sort_order": 3
+  },
+  {
+   "id": 72,
+   "meal_id": 9,
+   "ingredient_id": 13,
+   "quantity": "3",
+   "measurement": "cloves",
+   "descriptor": "minced",
+   "sort_order": 4
+  },
+  {
+   "id": 73,
+   "meal_id": 9,
+   "ingredient_id": 32,
+   "quantity": "1",
+   "measurement": "tsp",
+   "descriptor": null,
+   "sort_order": 5
+  },
+  {
+   "id": 74,
+   "meal_id": 9,
+   "ingredient_id": 17,
+   "quantity": "1",
+   "measurement": "tsp",
+   "descriptor": null,
+   "sort_order": 6
+  },
+  {
+   "id": 75,
+   "meal_id": 9,
+   "ingredient_id": 38,
+   "quantity": "2",
+   "measurement": "tbsp",
+   "descriptor": null,
+   "sort_order": 7
+  },
+  {
+   "id": 76,
+   "meal_id": 9,
+   "ingredient_id": 53,
+   "quantity": "0.5",
+   "measurement": "cup",
+   "descriptor": "crumbled",
+   "sort_order": 8
+  },
+  {
+   "id": 77,
+   "meal_id": 9,
+   "ingredient_id": 54,
+   "quantity": "1",
+   "measurement": "loaf",
+   "descriptor": "for serving",
+   "sort_order": 9
+  },
+  {
+   "id": 78,
+   "meal_id": 10,
+   "ingredient_id": 55,
+   "quantity": "2",
+   "measurement": "cups",
+   "descriptor": "rinsed",
+   "sort_order": 0
+  },
+  {
+   "id": 79,
+   "meal_id": 10,
+   "ingredient_id": 56,
+   "quantity": "2",
+   "measurement": "can (15 oz)",
+   "descriptor": "drained and rinsed",
+   "sort_order": 1
+  },
+  {
+   "id": 80,
+   "meal_id": 10,
+   "ingredient_id": 4,
+   "quantity": "1",
+   "measurement": null,
+   "descriptor": "diced",
+   "sort_order": 2
+  },
+  {
+   "id": 81,
+   "meal_id": 10,
+   "ingredient_id": 46,
+   "quantity": "2",
+   "measurement": null,
+   "descriptor": "diced",
+   "sort_order": 3
+  },
+  {
+   "id": 82,
+   "meal_id": 10,
+   "ingredient_id": 13,
+   "quantity": "4",
+   "measurement": "cloves",
+   "descriptor": "minced",
+   "sort_order": 4
+  },
+  {
+   "id": 83,
+   "meal_id": 10,
+   "ingredient_id": 57,
+   "quantity": "2",
+   "measurement": "tbsp",
+   "descriptor": null,
+   "sort_order": 5
+  },
+  {
+   "id": 84,
+   "meal_id": 10,
+   "ingredient_id": 42,
+   "quantity": "1",
+   "measurement": "can (28 oz)",
+   "descriptor": null,
+   "sort_order": 6
+  },
+  {
+   "id": 85,
+   "meal_id": 10,
+   "ingredient_id": 58,
+   "quantity": "6",
+   "measurement": "cups",
+   "descriptor": null,
+   "sort_order": 7
+  },
+  {
+   "id": 86,
+   "meal_id": 10,
+   "ingredient_id": 38,
+   "quantity": "2",
+   "measurement": "tbsp",
+   "descriptor": null,
+   "sort_order": 8
+  },
+  {
+   "id": 87,
+   "meal_id": 10,
+   "ingredient_id": 32,
+   "quantity": "1",
+   "measurement": "tsp",
+   "descriptor": "ground",
+   "sort_order": 9
+  },
+  {
+   "id": 88,
+   "meal_id": 10,
+   "ingredient_id": 59,
+   "quantity": "4",
+   "measurement": "cups",
+   "descriptor": "fresh",
+   "sort_order": 10
+  },
+  {
+   "id": 89,
+   "meal_id": 10,
+   "ingredient_id": 60,
+   "quantity": "1",
+   "measurement": null,
+   "descriptor": "juiced, for serving",
+   "sort_order": 11
+  },
+  {
+   "id": 90,
+   "meal_id": 11,
+   "ingredient_id": 61,
+   "quantity": "2",
+   "measurement": "lb",
+   "descriptor": "boneless skinless, cut into 1-inch pieces",
+   "sort_order": 0
+  },
+  {
+   "id": 91,
+   "meal_id": 11,
+   "ingredient_id": 38,
+   "quantity": "0.25",
+   "measurement": "cup",
+   "descriptor": null,
+   "sort_order": 1
+  },
+  {
+   "id": 92,
+   "meal_id": 11,
+   "ingredient_id": 60,
+   "quantity": "2",
+   "measurement": null,
+   "descriptor": "juiced",
+   "sort_order": 2
+  },
+  {
+   "id": 93,
+   "meal_id": 11,
+   "ingredient_id": 13,
+   "quantity": "4",
+   "measurement": "cloves",
+   "descriptor": "minced",
+   "sort_order": 3
+  },
+  {
+   "id": 94,
+   "meal_id": 11,
+   "ingredient_id": 62,
+   "quantity": "2",
+   "measurement": "tsp",
+   "descriptor": "dried",
+   "sort_order": 4
+  },
+  {
+   "id": 95,
+   "meal_id": 11,
+   "ingredient_id": 26,
+   "quantity": "1.5",
+   "measurement": "cups",
+   "descriptor": "uncooked",
+   "sort_order": 5
+  },
+  {
+   "id": 96,
+   "meal_id": 11,
+   "ingredient_id": 63,
+   "quantity": "1",
+   "measurement": null,
+   "descriptor": "diced",
+   "sort_order": 6
+  },
+  {
+   "id": 97,
+   "meal_id": 11,
+   "ingredient_id": 64,
+   "quantity": "2",
+   "measurement": "cups",
+   "descriptor": "halved",
+   "sort_order": 7
+  },
+  {
+   "id": 98,
+   "meal_id": 11,
+   "ingredient_id": 36,
+   "quantity": "0.5",
+   "measurement": null,
+   "descriptor": "thinly sliced",
+   "sort_order": 8
+  },
+  {
+   "id": 99,
+   "meal_id": 11,
+   "ingredient_id": 53,
+   "quantity": "0.75",
+   "measurement": "cup",
+   "descriptor": "crumbled",
+   "sort_order": 9
+  },
+  {
+   "id": 100,
+   "meal_id": 11,
+   "ingredient_id": 65,
+   "quantity": "1",
+   "measurement": "cup",
+   "descriptor": "plain, for tzatziki",
+   "sort_order": 10
+  },
+  {
+   "id": 101,
+   "meal_id": 11,
+   "ingredient_id": 66,
+   "quantity": "2",
+   "measurement": "tbsp",
+   "descriptor": "chopped, for tzatziki",
+   "sort_order": 11
+  },
+  {
+   "id": 102,
+   "meal_id": 12,
+   "ingredient_id": 67,
+   "quantity": "2",
+   "measurement": "can (15 oz)",
+   "descriptor": "drained and rinsed",
+   "sort_order": 0
+  },
+  {
+   "id": 103,
+   "meal_id": 12,
+   "ingredient_id": 68,
+   "quantity": "1",
+   "measurement": "bunch",
+   "descriptor": "stems removed, chopped",
+   "sort_order": 1
+  },
+  {
+   "id": 104,
+   "meal_id": 12,
+   "ingredient_id": 4,
+   "quantity": "1",
+   "measurement": null,
+   "descriptor": "diced",
+   "sort_order": 2
+  },
+  {
+   "id": 105,
+   "meal_id": 12,
+   "ingredient_id": 46,
+   "quantity": "2",
+   "measurement": null,
+   "descriptor": "sliced",
+   "sort_order": 3
+  },
+  {
+   "id": 106,
+   "meal_id": 12,
+   "ingredient_id": 47,
+   "quantity": "2",
+   "measurement": "stalks",
+   "descriptor": "sliced",
+   "sort_order": 4
+  },
+  {
+   "id": 107,
+   "meal_id": 12,
+   "ingredient_id": 13,
+   "quantity": "4",
+   "measurement": "cloves",
+   "descriptor": "minced",
+   "sort_order": 5
+  },
+  {
+   "id": 108,
+   "meal_id": 12,
+   "ingredient_id": 58,
+   "quantity": "6",
+   "measurement": "cups",
+   "descriptor": null,
+   "sort_order": 6
+  },
+  {
+   "id": 109,
+   "meal_id": 12,
+   "ingredient_id": 42,
+   "quantity": "1",
+   "measurement": "can (14 oz)",
+   "descriptor": null,
+   "sort_order": 7
+  },
+  {
+   "id": 110,
+   "meal_id": 12,
+   "ingredient_id": 38,
+   "quantity": "2",
+   "measurement": "tbsp",
+   "descriptor": null,
+   "sort_order": 8
+  },
+  {
+   "id": 111,
+   "meal_id": 12,
+   "ingredient_id": 69,
+   "quantity": "1",
+   "measurement": "tsp",
+   "descriptor": "dried",
+   "sort_order": 9
+  },
+  {
+   "id": 112,
+   "meal_id": 12,
+   "ingredient_id": 70,
+   "quantity": "1",
+   "measurement": null,
+   "descriptor": "optional",
+   "sort_order": 10
+  },
+  {
+   "id": 113,
+   "meal_id": 12,
+   "ingredient_id": 60,
+   "quantity": "1",
+   "measurement": null,
+   "descriptor": "juiced",
+   "sort_order": 11
+  },
+  {
+   "id": 114,
+   "meal_id": 13,
+   "ingredient_id": 61,
+   "quantity": "3",
+   "measurement": "lb",
+   "descriptor": "bone-in skin-on",
+   "sort_order": 0
+  },
+  {
+   "id": 115,
+   "meal_id": 14,
+   "ingredient_id": 61,
+   "quantity": "2",
+   "measurement": "lb",
+   "descriptor": "boneless skinless",
+   "sort_order": 0
+  },
+  {
+   "id": 116,
+   "meal_id": 13,
+   "ingredient_id": 35,
+   "quantity": "2",
+   "measurement": "lb",
+   "descriptor": "halved",
+   "sort_order": 1
+  },
+  {
+   "id": 117,
+   "meal_id": 14,
+   "ingredient_id": 38,
+   "quantity": "3",
+   "measurement": "tbsp",
+   "descriptor": null,
+   "sort_order": 1
+  },
+  {
+   "id": 118,
+   "meal_id": 13,
+   "ingredient_id": 60,
+   "quantity": "3",
+   "measurement": null,
+   "descriptor": "2 juiced, 1 cut into wedges",
+   "sort_order": 2
+  },
+  {
+   "id": 119,
+   "meal_id": 14,
+   "ingredient_id": 71,
+   "quantity": "2",
+   "measurement": "tbsp",
+   "descriptor": null,
+   "sort_order": 2
+  },
+  {
+   "id": 120,
+   "meal_id": 13,
+   "ingredient_id": 38,
+   "quantity": "0.33",
+   "measurement": "cup",
+   "descriptor": null,
+   "sort_order": 3
+  },
+  {
+   "id": 121,
+   "meal_id": 14,
+   "ingredient_id": 36,
+   "quantity": "1",
+   "measurement": null,
+   "descriptor": "wedged",
+   "sort_order": 3
+  },
+  {
+   "id": 122,
+   "meal_id": 13,
+   "ingredient_id": 13,
+   "quantity": "6",
+   "measurement": "cloves",
+   "descriptor": "smashed",
+   "sort_order": 4
+  },
+  {
+   "id": 123,
+   "meal_id": 14,
+   "ingredient_id": 14,
+   "quantity": "2",
+   "measurement": null,
+   "descriptor": "sliced",
+   "sort_order": 4
+  },
+  {
+   "id": 124,
+   "meal_id": 13,
+   "ingredient_id": 62,
+   "quantity": "1",
+   "measurement": "tbsp",
+   "descriptor": "dried",
+   "sort_order": 5
+  },
+  {
+   "id": 125,
+   "meal_id": 14,
+   "ingredient_id": 64,
+   "quantity": "2",
+   "measurement": "cups",
+   "descriptor": "halved",
+   "sort_order": 5
+  },
+  {
+   "id": 126,
+   "meal_id": 13,
+   "ingredient_id": 25,
+   "quantity": "1",
+   "measurement": "cup",
+   "descriptor": null,
+   "sort_order": 6
+  },
+  {
+   "id": 127,
+   "meal_id": 14,
+   "ingredient_id": 72,
+   "quantity": "6",
+   "measurement": null,
+   "descriptor": "for serving",
+   "sort_order": 6
+  },
+  {
+   "id": 128,
+   "meal_id": 14,
+   "ingredient_id": 65,
+   "quantity": "1",
+   "measurement": "cup",
+   "descriptor": "for serving",
+   "sort_order": 7
+  },
+  {
+   "id": 129,
+   "meal_id": 14,
+   "ingredient_id": 63,
+   "quantity": "1",
+   "measurement": null,
+   "descriptor": "diced, for serving",
+   "sort_order": 8
+  }
+ ],
+ "meal_tags": [
+  {
+   "meal_id": 1,
+   "tag_id": 5
+  },
+  {
+   "meal_id": 1,
+   "tag_id": 7
+  },
+  {
+   "meal_id": 2,
+   "tag_id": 4
+  },
+  {
+   "meal_id": 2,
+   "tag_id": 5
+  },
+  {
+   "meal_id": 2,
+   "tag_id": 7
+  },
+  {
+   "meal_id": 3,
+   "tag_id": 3
+  },
+  {
+   "meal_id": 3,
+   "tag_id": 6
+  },
+  {
+   "meal_id": 5,
+   "tag_id": 3
+  },
+  {
+   "meal_id": 5,
+   "tag_id": 6
+  },
+  {
+   "meal_id": 5,
+   "tag_id": 7
+  },
+  {
+   "meal_id": 6,
+   "tag_id": 4
+  },
+  {
+   "meal_id": 6,
+   "tag_id": 5
+  },
+  {
+   "meal_id": 6,
+   "tag_id": 7
+  },
+  {
+   "meal_id": 7,
+   "tag_id": 3
+  },
+  {
+   "meal_id": 7,
+   "tag_id": 7
+  },
+  {
+   "meal_id": 8,
+   "tag_id": 3
+  },
+  {
+   "meal_id": 8,
+   "tag_id": 8
+  },
+  {
+   "meal_id": 9,
+   "tag_id": 5
+  },
+  {
+   "meal_id": 9,
+   "tag_id": 7
+  },
+  {
+   "meal_id": 10,
+   "tag_id": 3
+  },
+  {
+   "meal_id": 10,
+   "tag_id": 7
+  },
+  {
+   "meal_id": 10,
+   "tag_id": 9
+  },
+  {
+   "meal_id": 11,
+   "tag_id": 7
+  },
+  {
+   "meal_id": 11,
+   "tag_id": 9
+  },
+  {
+   "meal_id": 12,
+   "tag_id": 3
+  },
+  {
+   "meal_id": 12,
+   "tag_id": 7
+  },
+  {
+   "meal_id": 12,
+   "tag_id": 9
+  },
+  {
+   "meal_id": 13,
+   "tag_id": 3
+  },
+  {
+   "meal_id": 13,
+   "tag_id": 8
+  },
+  {
+   "meal_id": 13,
+   "tag_id": 9
+  },
+  {
+   "meal_id": 14,
+   "tag_id": 5
+  },
+  {
+   "meal_id": 14,
+   "tag_id": 7
+  },
+  {
+   "meal_id": 14,
+   "tag_id": 9
+  }
+ ]
+}
